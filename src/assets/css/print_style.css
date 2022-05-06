@@ -1,0 +1,12 @@
+.table{
+  overflow:hidden;!important
+  overflow-y:hidden;!important  /*для вертикального*/
+  overflow-x:hidden;!important  /*для горизонтального*/
+}
+.print-hidden {
+  visibility: hidden;
+}
+.badge{ color : #000000; !important}
+.badge-pill{color : #000000; !important}
+.badge-info{color : #000000; !important}
+.print-style{ color : #000000; !important}
